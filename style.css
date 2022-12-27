@@ -1,0 +1,45 @@
+body {
+    background: lightblue;
+}
+
+header {
+    text-align:center;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 50px;
+    background: lightgreen;
+}
+
+p, em {
+    font-size: 20px;
+}
+
+p {
+    background: white;
+    text-align: center;
+}
+
+table {
+    background-color:lighblue;
+    border:1px solid green;
+}
+
+th {
+    border:1px solid green;
+    font-size: 20px;
+    color:red;
+    background-color: yellow;
+}
+
+td {
+   border:1px solid green;
+    font-size: 20px;
+    font-family: sans-serif; 
+}
+
+footer, strong {
+    background: red;
+    font-size:20px;
+}
